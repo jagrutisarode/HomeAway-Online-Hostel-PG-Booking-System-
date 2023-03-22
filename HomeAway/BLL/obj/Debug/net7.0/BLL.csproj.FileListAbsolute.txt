@@ -1,0 +1,17 @@
+D:\DOT NET\HomeAway\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\DOT NET\HomeAway\BLL\bin\Debug\net7.0\BLL.dll
+D:\DOT NET\HomeAway\BLL\bin\Debug\net7.0\BLL.pdb
+D:\DOT NET\HomeAway\BLL\bin\Debug\net7.0\BOL.dll
+D:\DOT NET\HomeAway\BLL\bin\Debug\net7.0\DAL.dll
+D:\DOT NET\HomeAway\BLL\bin\Debug\net7.0\BOL.pdb
+D:\DOT NET\HomeAway\BLL\bin\Debug\net7.0\DAL.pdb
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\BLL.dll
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\BLL.pdb
+D:\DOT NET\HomeAway\BLL\obj\Debug\net7.0\ref\BLL.dll
